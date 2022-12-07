@@ -17,4 +17,4 @@ for number in numbers:
         total = 0
     arr_counter += 1
 
-print(maths)
+print(sorted(maths))
